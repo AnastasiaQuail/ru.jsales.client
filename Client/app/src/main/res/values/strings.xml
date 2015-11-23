@@ -9,5 +9,6 @@
     <string name="text">Введите имя категории</string>
     <string name="search">Поиск</string>
     <string name="no_records">Пока нет ни одной категории</string>
+    <string name="site">http://demo.atarim.pro</string>
 
 </resources>

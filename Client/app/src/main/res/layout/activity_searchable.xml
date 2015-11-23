@@ -18,7 +18,8 @@
             android:id="@+id/add"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/search" />
+            android:text="@string/search"
+            style="@style/Base.TextAppearance.AppCompat.Widget.Button" />
     </LinearLayout>
     <ListView
         android:layout_width="fill_parent"
